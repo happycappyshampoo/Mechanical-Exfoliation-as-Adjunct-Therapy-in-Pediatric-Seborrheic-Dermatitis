@@ -53,6 +53,8 @@ When paired with a pharmacologically active medicated shampoo, the device is hyp
 
 ## 4. Device Characterization
 
+Device Information: https://happycappyshampoo.com/product/happy-cappy-cradle-cap-beanie-brush/
+
 ### 4.1 Design and Materials
 
 The device is a food-grade silicone mechanical exfoliation brush developed by Eduard Valenzuela, MD, FAAP, a board-certified Fellow of the American Academy of Pediatrics with clinical specialization in pediatric skin conditions including seborrheic dermatitis, cradle cap, atopic dermatitis, and pediatric dandruff, and founder of Pediatric Solutions, LLC (Houston, Texas).
